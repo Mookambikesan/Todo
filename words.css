@@ -1,0 +1,44 @@
+.title{
+    font-size: 76%;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(82, 80, 84);
+    height: 70px;
+    position: absolute;
+    margin-top: -80px;
+    left:150px;
+ 
+}
+.btn{
+     padding: 2px 20px; 
+     background-color: rgb(20, 35, 75);
+     color: aliceblue;
+     font-size: medium;
+     font-weight:bold;
+     height: 5vh;
+     display: flex;
+     
+    position:absolute;
+    margin-top: -60px;
+    right:140px;
+
+}
+#second{
+    padding-top:30px;
+    padding-left:-60px;
+    margin-left: -20px;
+    position: sticky;
+}
+.btn1{
+    padding: 2px 20px;
+    margin-left: 380px;
+    margin-top: 10px;
+    position: sticky;
+}
+.btn2{
+    padding:2px 20px;
+    margin-left: 800px;
+    background-color: rgb(18, 18, 158);
+    color: aliceblue;
+    font-size: medium;
+    position: sticky;
+}
